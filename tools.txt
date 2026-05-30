@@ -1,0 +1,7 @@
+tools
+
+Chunking Engine	reduces cognitive stress by breaking work down into smaller, more manageable steps.
+Pomodoro/Timer tool	offers set time slots (10–20 minutes) to enhance concentration and output.
+Ikigai Motivation Module	motivates the start of tasks by encouraging introspection about personal objectives.
+Synthesis Tool	arranges and ranks assignments according to their priority and urgency.
+Emotional Stabilisation Module	offers consoling direction and emotional support prior to work completion.

@@ -1,0 +1,48 @@
+Knowledge Engineering & Elicitation Results
+2.1 Declarative Knowledge Base (Heuristic Rules)
+The following logical rules were extracted from the expert interview to govern the AI Agent's 
+decision-making process:
+• Rule 1 (Task Decomposition): IF a student is unable to complete a task due to its 
+perceived scale, THEN the system must initiate a "chunking" procedure to divide the 
+task into specific, sequential steps.
+• Rule 2 (Executive Functioning Support): IF the user faces overlapping academic 
+demands or multiple deadlines, THEN the agent must systematically order and 
+prioritize tasks to prevent executive dysfunction.
+• Rule 3 (Proactive Time Management): IF it is the beginning of a semester, THEN
+the system must prompt the user to record all deadlines and initiate work immediately 
+to avoid last-minute stress.
+• Rule 4 (Crisis Intervention): IF the user exhibits signs of a "meltdown" (e.g., 
+panicking, crying, or becoming hysterical), THEN the agent must cease academic 
+prompting and transition to emotional stabilization mode.
+• Rule 5 (Focus Maintenance): IF a student struggles to maintain focus on a singular 
+task, THEN the system shall recommend a timed session (10, 15, or 20 minutes) 
+using a visual or physical timer.
+• Rule 6 (Contingent Reinforcement): IF a focused work interval is successfully 
+completed, THEN the agent must negotiate a structured break (5 or 10 minutes) based 
+on current progress.
+• Rule 7 (Anti-Escapism Protocol): IF the user demonstrates signs of "escapism" or 
+lack of motivation, THEN the agent must trigger a reflection on the user’s "Ikigai" or 
+core purpose ("The Why").
+• Rule 8 (Cognitive Reframing): IF the user employs negative self-talk regarding task 
+difficulty, THEN the system must provide supportive prompts to alter the student's 
+internal narrative.
+2.2 Procedural Knowledge (Functional Tools)
+To execute the rules above, the Agentic AI is equipped with the following human-expertdefined tools:
+• The Chunking Engine: A tool designed to break down large academic objectives 
+into micro-tasks to prevent cognitive overload.
+• The Pomodoro/Visual Timer: A procedural tool that enforces 10–20 minute focus 
+blocks followed by mandatory, negotiated breaks.
+• The Ikigai Motivation Module: A reflective tool used to retrieve and present the 
+user’s personal "Why" to counteract procrastination and escapism.
+• The Synthesis & Compilation Tool: A utility that summarizes technical or 
+conceptual exam material into digestible point forms to reduce the user's reading 
+burden.
+System Constraints & Ethical Guardrails
+The expert established the following absolute boundaries for the AI's operation:
+• Cognitive Integrity: The AI is strictly prohibited from performing the "thinking" or 
+creative construction for the student; its role is limited to prompting and guiding.
+• Persona and Tone: The system must maintain the persona of a "Learning Coach" 
+and "Confidante," utilizing a kind but "very firm and strict" tone to ensure compliance 
+with academic schedules.
+• Epistemic Transparency: The agent must explicitly acknowledge its potential for 
+"hallucinations" (e.g., fabricated references) and encourage human verification.
